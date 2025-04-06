@@ -11,6 +11,10 @@ For the first ten restaurants, the following is displayed from their data:
 ##Guide on build and run
 - PHP 7+ must be installed
 
+##Interface screenshot
+This is the interface displaying the requested restaurants data
+[Interface_preview.png]
+
 ##To run the program:
 1. Clone the repository from https://github.com/MeherShroff2/JETAssessment.git
 2. Open a terminal in the project folder
